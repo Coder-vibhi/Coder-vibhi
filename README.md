@@ -1,158 +1,270 @@
+```md
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,2b2b2b&height=320&section=header&text=Vibhivesh%20Khandarkar&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20Frontend%20Developer%20(AI-Enhanced)&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header" width="100%"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+Next-Gen+Web+Apps+with+AI;Specializing+in+Prompt+Engineering;Analyzing+Data+Trends+with+DeepSeek+AI;Creating+Minimalist+User+Experiences" alt="Typing SVG" /></a>
-<br/>
-<p align="center">
-<a href="mailto:Vibhivesh14021@gmail.com"><img src="https://img.shields.io/badge/Email-Vibhivesh14021-black?style=flat-square&logo=gmail&logoColor=white" height="30"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Location-Amravati%2C_IN-E63946?style=flat-square&logo=google-maps&logoColor=white" height="30"/></a>
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:111111,100:000000&text=Vibhivesh%20Khandarkar&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20|%20Full%20Stack%20Developer%20|%20AI%20Builder&descAlignY=58" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=111111&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Web+Applications;Full+Stack+Developer;React+%7C+Node.js+%7C+Supabase;Learning+DSA+%26+System+Design;Open+to+Internships"/>
+
+<br><br>
+
+<a href="mailto:Vibhivesh14021@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://img.shields.io/badge/Location-India-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-blue?style=for-the-badge">
+
 </div>
-<br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
-<h2 align="left">👨‍💻 The AI-First Developer</h2>
-<blockquote>
-<p align="left">
-<strong>"I don't just write code; I orchestrate AI to build it."</strong><br/><br/>
-[cite_start]I am a <strong>B.Tech (AI) Student</strong> at Raisoni University [cite: 2, 12] who believes the future of engineering lies in <strong>Human-AI collaboration</strong>.<br/><br/>
-[cite_start]While others code from scratch, I leverage <strong>DeepSeek, Grok, and ChatGPT</strong> [cite: 6] to accelerate frontend architecture and data analysis, delivering results 3x faster with higher precision.
-</p>
-</blockquote>
-<h3 align="left">🚀 Current Focus</h3>
-<ul align="left">
-<li>🔭 <strong>Building:</strong> AI-integrated web platforms for startups.</li>
-<li>🌱 <strong>Learning:</strong> Advanced Data Structures & Algorithms.</li>
-<li>🧠 <strong>Mastering:</strong> Large Language Model (LLM) prompting strategies.</li>
-</ul>
-</td>
-<td width="45%" valign="top" align="center">
-<br/>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="95%" style="border-radius: 10px;" alt="AI Processing"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-Open_to_Internships-success?style=for-the-badge"/>
-</td>
-</tr>
-</table>
-<br/>
+---
 
-<h2 align="center">🛠️ Technical Ecosystem</h2>
-<table width="100%">
-<tr>
-<td align="center" valign="top" width="25%">
-<strong>🤖 AI Engines</strong><br/><br/>
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Grok_AI-black?style=flat-square&logo=x&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/DeepSeek-blue?style=flat-square&logo=robot&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Lovable_AI-FF5A5F?style=flat-square&logo=heart&logoColor=white"/>
-</td>
-<td align="center" valign="top" width="25%">
-<strong>💻 Frontend</strong><br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Responsive_Design-333333?style=flat-square&logo=design&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/UI%2FUX_Principles-purple?style=flat-square&logo=figma&logoColor=white"/>
-</td>
-<td align="center" valign="top" width="25%">
-<strong>📊 Data & Analytics</strong><br/><br/>
-<img src="https://img.shields.io/badge/Data_Analytics-black?style=flat-square&logo=google-analytics&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Visualization-FF9900?style=flat-square&logo=google-cloud&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Report_Gen-4285F4?style=flat-square&logo=google-docs&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Problem_Solving-success?style=flat-square&logo=geocaching&logoColor=white"/>
-</td>
-<td align="center" valign="top" width="25%">
-<strong>⚙️ Workflow</strong><br/><br/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Prompt_Eng-yellow?style=flat-square&logo=warning&logoColor=black"/>
-</td>
-</tr>
-</table>
-<br/>
+# 👋 About Me
 
-<h2 align="center">💼 Career Timeline</h2>
-<div align="center">
-<table width="95%">
-<tr>
-<td width="20%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2025-MAR_to_JUL-black?style=flat-square"/>
-</td>
-<td width="80%" valign="top">
-<details>
-<summary><strong>Artificial Intelligence Intern</strong> | [cite_start]Knowledge Hub Pvt Ltd [cite: 4, 5]</summary>
-<br/>
-<ul>
-<li>🛠 <strong>Role:</strong> Spearheaded frontend development using an AI-assisted stack.</li>
-[cite_start]<li>🤖 <strong>Tech:</strong> Integrated <em>DeepSeek & Grok AI</em> [cite: 6] to automate code generation.</li>
-[cite_start]<li>📈 <strong>Impact:</strong> Collaborated with HR to streamline step-by-step implementation processes[cite: 7].</li>
-</ul>
-</details>
-</td>
-</tr>
-<tr>
-<td width="20%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2025-JUNE-black?style=flat-square"/>
-</td>
-<td width="80%" valign="top">
-<details>
-<summary><strong>Data Analytics Job Simulation</strong> | [cite_start]Tata Group (Forage) [cite: 8]</summary>
-<br/>
-<ul>
-<li>🛠 <strong>Role:</strong> Virtual Analyst solving real-world business scenarios.</li>
-[cite_start]<li>🤖 <strong>Tech:</strong> Used Generative AI to identify data trends and visualize insights[cite: 9].</li>
-[cite_start]<li>📈 <strong>Impact:</strong> Produced executive-level reports with minimal prior experience[cite: 9].</li>
-</ul>
-</details>
-</td>
-</tr>
-</table>
-</div>
-<br/>
+I'm **Vibhivesh Khandarkar**, a **B.Tech Artificial Intelligence** student passionate about building real-world software using modern web technologies and AI tools.
 
-<h2 align="center">🧪 Labs & Projects</h2>
-<table width="100%">
-<tr>
-<td width="49%" valign="top">
-<h3 align="center">🌐 Startup Web Architecture</h3>
-<p align="center">
-<a href="#"><img src="https://media.giphy.com/media/LIdDfKWHgX6Ag/giphy.gif" width="100%" height="180" style="object-fit:cover; border-radius:8px;"/></a>
-</p>
+Rather than using AI only for generating code, I use it to speed up development, prototype ideas quickly, solve problems, and build complete production-ready applications.
+
+Currently I'm focused on:
+
+- 🤖 AI-assisted Software Development
+- 🌐 Full Stack Web Development
+- 📚 Data Structures & Algorithms
+- ⚡ System Design
+- 🚀 Building portfolio-worthy projects
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Frontend
+
 <p>
-[cite_start]<strong>Concept:</strong> A business-grade website built by orchestrating multiple AI agents[cite: 17].<br/>
-<strong>Key Tech:</strong> <code>DeepSeek AI</code> <code>Responsive Layouts</code><br/>
-<strong>Result:</strong> Reduced development time by 60% through prompt engineering.
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind"/>
+
 </p>
-</td>
-<td width="2%"></td>
-<td width="49%" valign="top">
-<h3 align="center">🎨 AI-Curated Portfolio</h3>
-<p align="center">
-<a href="#"><img src="https://media.giphy.com/media/26FPCXdkvDbF9q85W/giphy.gif" width="100%" height="180" style="object-fit:cover; border-radius:8px;"/></a>
-</p>
+
+### ⚙ Backend
+
 <p>
-[cite_start]<strong>Concept:</strong> Self-referential project using ChatGPT to design its own structure[cite: 22].<br/>
-<strong>Key Tech:</strong> <code>ChatGPT</code> <code>HTML/CSS</code><br/>
-<strong>Result:</strong> A minimalist, high-impact personal brand page.
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
 </p>
-</td>
-</tr>
-</table>
-<br/>
 
-<h2 align="center">⚡ Coding Activity</h2>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=graywhite&no-frame=true&margin-w=10&margin-h=10&column=4"/>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=false&count_private=true&title_color=000000&text_color=333333&icon_color=000000" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=false&title_color=000000&text_color=333333" height="150" alt="languages graph" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=false&stroke=000000&ring=000000&fire=000000&currStreakNum=333333&sideNums=333333&currStreakLabel=000000&sideLabels=000000" alt="streak graph" />
-</div>
-<br/><br/>
+### 🗄 Database & Backend Services
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+</p>
+
+### 🤖 AI Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai">
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google">
+
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Antigravity_AI-000000?style=for-the-badge">
+
+</p>
+
+### 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🎓 Babua LMS
+
+> AI-Powered Learning Management System
+
+### Features
+
+- Authentication using Supabase
+- AI Chatbot powered by Gemini
+- Course Management
+- Roadmap Learning
+- Video Learning
+- Coin Reward System
+- Real-time Community Chat
+- Admin Dashboard
+- Premium Services
+- Responsive Design
+
+**Tech**
+
+`React` • `Node.js` • `Express` • `Supabase` • `Socket.io` • `Gemini AI`
+
+---
+
+## 📊 ReelStat
+
+> Chrome Extension for Instagram Creator Analysis
+
+### Features
+
+- Calculates Average Reel Views
+- Scans Latest 25 Reels
+- Ignores Latest 5 Reels
+- Ignores Oldest 5 Reels
+- Skips Promotional Reels
+- Organic Performance Analysis
+
+**Tech**
+
+`JavaScript` • `Chrome Extension API`
+
+---
+
+## 🌐 Portfolio Website
+
+Modern responsive portfolio website showcasing projects, skills, and development journey.
+
+**Tech**
+
+`HTML` • `CSS` • `JavaScript`
+
+---
+
+## 🚀 More Projects Coming Soon...
+
+- AI SaaS Projects
+- Full Stack Applications
+- Chrome Extensions
+- Open Source Contributions
+
+---
+
+# 📈 Current Goals
+
+- ✅ Master Full Stack Development
+- ✅ Improve DSA & Problem Solving
+- ✅ Build AI-powered Products
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Development Internship
+
+---
+
+```
+
+```md
+# 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b2b2b,000000&height=100&section=footer" width="100%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- 📖 Data Structures & Algorithms
+- ⚡ System Design
+- 🤖 Artificial Intelligence
+- 🌐 Advanced Full Stack Development
+- 🏗 Building Scalable Web Applications
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful AI-powered products
+- 💼 Land a Software Development Internship
+- 🌍 Contribute to Open Source
+- ⭐ Reach 1000+ GitHub Contributions
+- 📱 Launch production-ready Full Stack applications
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:Vibhivesh14021@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### *"Build. Learn. Improve. Repeat."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:222222"/>
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and checking out my repositories.
+
+</div>
+```
