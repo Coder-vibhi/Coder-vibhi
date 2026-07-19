@@ -1,154 +1,107 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:111111,100:000000&text=Vibhivesh%20Khandarkar&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20|%20Full%20Stack%20Developer%20|%20AI%20Builder&descAlignY=58" width="100%"/>`{=html}
+# 👋 Hi, I'm Vibhivesh Khandarkar
 
-`<br>`{=html}
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111111,100:000000&text=Vibhivesh%20Khandarkar&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20|%20Full%20Stack%20Developer%20|%20AI%20Builder&descAlignY=58"/>
+</p>
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=111111&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Web+Applications;Full+Stack+Developer;React+%7C+Node.js+%7C+Supabase;Learning+DSA+%26+System+Design;Open+to+Internships"/>`{=html}
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;React+%7C+Node.js+%7C+Supabase;Chrome+Extension+Developer;Open+to+Internships"/>
+</p>
 
-`<br>`{=html}`<br>`{=html}
+<p align="center">
+<a href="mailto:Vibhivesh14021@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Coder-vibhi"><img src="https://img.shields.io/badge/GitHub-Coder--vibhi-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/vibhivesh-khandarkar-344a47352"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
+</p>
 
-`<a href="mailto:Vibhivesh14021@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white">`{=html}
-`</a>`{=html}
+---
 
-`<a href="https://github.com/YOUR_GITHUB_USERNAME">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">`{=html}
-`</a>`{=html}
+# 🚀 About Me
 
-`<img src="https://img.shields.io/badge/Location-India-success?style=for-the-badge">`{=html}
+- 🎓 B.Tech Artificial Intelligence Student
+- 💻 Full Stack Developer
+- 🤖 AI-assisted (Vibe Coding) Developer
+- 🌱 Learning DSA & System Design
+- 🎯 Open to Software Development Internships
 
-`<img src="https://img.shields.io/badge/Open%20To-Internships-blue?style=for-the-badge">`{=html}
-:::
+---
 
-------------------------------------------------------------------------
+# 🛠 Tech Stack
 
-# 👋 About Me
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind"/>
+</p>
 
-I'm **Vibhivesh Khandarkar**, a **B.Tech Artificial Intelligence**
-student passionate about building real-world software using modern web
-technologies and AI tools.
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-Rather than using AI only for generating code, I use it to speed up
-development, prototype ideas quickly, solve problems, and build complete
-production-ready applications.
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=supabase"/>
+</p>
 
-Currently I'm focused on:
+### AI Tools
 
--   🤖 AI-assisted Software Development
--   🌐 Full Stack Web Development
--   📚 Data Structures & Algorithms
--   ⚡ System Design
--   🚀 Building portfolio-worthy projects
+![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI-black?style=for-the-badge)
 
-------------------------------------------------------------------------
+---
 
-# 🚀 Tech Stack
-
-### 💻 Frontend
-
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind"/>`{=html}
-
-### ⚙ Backend
-
-`<img src="https://skillicons.dev/icons?i=nodejs,express"/>`{=html}
-
-### 🗄 Database & Backend Services
-
-`<img src="https://skillicons.dev/icons?i=supabase"/>`{=html}
-
-### 🤖 AI Tools
-
-`<img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai">`{=html}
-`<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google">`{=html}
-`<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Antigravity_AI-000000?style=for-the-badge">`{=html}
-
-### 🛠 Tools
-
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>`{=html}
-
-------------------------------------------------------------------------
-
-# 📌 Featured Projects
+# 🌟 Featured Projects
 
 ## 🎓 Babua LMS
+AI-powered Learning Management System built with React, Node.js, Express, Supabase, Socket.io and Gemini AI.
 
--   Authentication using Supabase
--   AI Chatbot powered by Gemini
--   Course Management
--   Roadmap Learning
--   Coin Reward System
--   Real-time Community Chat
--   Admin Dashboard
--   Premium Services
+🔗 https://github.com/Coder-vibhi/babua-lms-
 
-**Tech:** `React` • `Node.js` • `Express` • `Supabase` • `Socket.io` •
-`Gemini AI`
-
-------------------------------------------------------------------------
+---
 
 ## 📊 ReelStat
 
--   Calculates Average Reel Views
--   Scans Latest 25 Reels
--   Ignores Latest 5 Reels
--   Ignores Oldest 5 Reels
--   Skips Promotional Reels
+Chrome Extension that analyzes Instagram reels by scanning the latest 25 reels, filtering promotional content and calculating organic average views.
 
-**Tech:** `JavaScript` • `Chrome Extension API`
+🔗 https://github.com/Coder-vibhi/instaextension
 
-------------------------------------------------------------------------
+---
 
-# 📈 Current Goals
+# 📈 GitHub Stats
 
--   Master Full Stack Development
--   Improve DSA & Problem Solving
--   Build AI-powered Products
--   Secure a Software Development Internship
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Coder-vibhi&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-vibhi&layout=compact&theme=transparent"/>
+</p>
 
-------------------------------------------------------------------------
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Coder-vibhi&theme=transparent"/>
+</p>
 
-# 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-vibhi&theme=github-compact"/>
+</p>
 
-::: {align="center"}
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"/>`{=html}
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Coder-vibhi&theme=flat&no-frame=true&column=4"/>
+</p>
 
-`<br>`{=html}`<br>`{=html}
+---
 
-`<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>`{=html}
+# 🎯 2026 Goals
 
-`<br>`{=html}`<br>`{=html}
+- Build AI-powered SaaS products
+- Master Full Stack Development
+- Improve DSA & System Design
+- Contribute to Open Source
+- Land a Software Development Internship
 
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>`{=html}
+---
 
-`<br>`{=html}`<br>`{=html}
+<p align="center">
+⭐ Thanks for visiting my profile!
 
-`<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&column=4"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 🤝 Let's Connect
-
-::: {align="center"}
-`<a href="mailto:Vibhivesh14021@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-`<a href="https://github.com/YOUR_GITHUB_USERNAME">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>`{=html}
-`</a>`{=html}
-
-`<a href="https://linkedin.com/in/YOUR_LINKEDIN">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### ⭐ Thanks for visiting my profile!
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:222222"/>`{=html}
-:::
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:222222"/>
+</p>
