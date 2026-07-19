@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vibhivesh Khandarkar
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111111,100:000000&text=Vibhivesh%20Khandarkar&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20|%20Full%20Stack%20Developer%20|%20AI%20Builder&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0f0f,100:000000&text=Vibhivesh%20Khandarkar&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20|%20Full%20Stack%20Developer%20|%20AI%20Builder&descAlignY=58"/>
 </p>
 
 <p align="center">
@@ -9,99 +9,95 @@
 </p>
 
 <p align="center">
-<a href="mailto:Vibhivesh14021@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Coder-vibhi"><img src="https://img.shields.io/badge/GitHub-Coder--vibhi-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/vibhivesh-khandarkar-344a47352"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<img src="https://komarev.com/ghpvc/?username=Coder-vibhi&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/Coder-vibhi?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Coder-vibhi?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech Artificial Intelligence Student
 - 💻 Full Stack Developer
 - 🤖 AI-assisted (Vibe Coding) Developer
 - 🌱 Learning DSA & System Design
-- 🎯 Open to Software Development Internships
+- 🚀 Building AI products & Chrome Extensions
+- 💼 Open to Software Development Internships
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
-<p>
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind"/>
-</p>
 
-### Backend
-<p>
+**Backend**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
 
-### Database
-<p>
+**Database**
+
 <img src="https://skillicons.dev/icons?i=supabase"/>
-</p>
 
-### AI Tools
+**Tools**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-AI-black?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🎓 Babua LMS
-AI-powered Learning Management System built with React, Node.js, Express, Supabase, Socket.io and Gemini AI.
+### 🎓 Babua LMS
+AI-powered LMS built with React, Node.js, Express, Supabase, Socket.io & Gemini.
 
 🔗 https://github.com/Coder-vibhi/babua-lms-
 
----
-
-## 📊 ReelStat
-
-Chrome Extension that analyzes Instagram reels by scanning the latest 25 reels, filtering promotional content and calculating organic average views.
+### 📊 ReelStat
+Chrome Extension that calculates organic Instagram reel average views.
 
 🔗 https://github.com/Coder-vibhi/instaextension
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Coder-vibhi&show_icons=true&theme=transparent"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-vibhi&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Coder-vibhi&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-vibhi&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Coder-vibhi&theme=transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-vibhi&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-vibhi&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-vibhi&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Coder-vibhi&theme=flat&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Coder-vibhi&theme=algolia&no-frame=true&column=4"/>
 </p>
+
+## 🐍 Contribution Snake
+
+> Enable the GitHub Action below, then use this image:
+
+```md
+![Snake](https://raw.githubusercontent.com/Coder-vibhi/Coder-vibhi/output/github-contribution-grid-snake-dark.svg)
+```
 
 ---
 
-# 🎯 2026 Goals
-
-- Build AI-powered SaaS products
-- Master Full Stack Development
-- Improve DSA & System Design
-- Contribute to Open Source
-- Land a Software Development Internship
-
----
+## 🤝 Connect
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+<a href="mailto:Vibhivesh14021@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Coder-vibhi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/vibhivesh-khandarkar-344a47352"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+</p>
 
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:222222"/>
 </p>
